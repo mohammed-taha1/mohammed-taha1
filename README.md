@@ -1,16 +1,21 @@
 ## Hi there 👋
 
 <!--
-**mohammed-taha1/mohammed-taha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mohammed Taha
 
-Here are some ideas to get you started:
+Electrical Engineering student building toward technical entrepreneurship through engineering projects, embedded systems, robotics, and applied AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Current Focus
+- Electrical Engineering fundamentals
+- Python for engineering simulation
+- Embedded systems basics
+- Robotics simulation
+- Technical entrepreneurship and MVP building
+
+## Projects
+- Coming soon: Electrical Engineering with Python notebooks
+- Coming soon: Embedded systems mini-labs
+
+## Learning Stack
+Python • MATLAB • Jupyter • Git/GitHub • Circuits • Digital Logic
 -->
